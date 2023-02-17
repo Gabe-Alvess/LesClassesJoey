@@ -43,7 +43,6 @@ public class Rectangle {
 
     // my methodes
     public static void myRectangleMessage() {
-
         System.out.println("Hi");
     }
 
